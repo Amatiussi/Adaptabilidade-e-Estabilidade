@@ -1,7 +1,5 @@
 #--------------------------- Exemplo do Livro ----------------------------------#
 
-# df2=read.table("Ex_livro.csv", header=TRUE, sep=";", dec=","); df2
-
 # Data frame 
 df2 <- data.frame(
   cultivares = c(1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8, 
