@@ -2,4 +2,4 @@ Este repositório é destinado a exercícios sobre análise de estabilidade e ad
 
 Essencialmente, o método de Eberhart e Russell baseia-se em efeitos fixos, mas também é possível estudar efeitos fixos e aleatórios por meio da metodologia de modelos mistos. Para compreender como essa segunda abordagem funciona, foi realizado um segundo exemplo utilizando o tutorial “Linear mixed-effect models” disponível no site TileStats (https://www.tilestats.com/).
 
-Os conjuntos de dados fornecidos pelos autores permitiram a replicação das análises no software R, utilizando os pacotes **dplyr**, **ggplot2**, **lme4** e **lmerTest**, facilitando a compreensão das duas metodologias.
+Os conjuntos de dados fornecidos pelos autores permite a replicação das análises no software R, utilizando os pacotes **dplyr**, **ggplot2**, **lme4** e **lmerTest**, facilitando a compreensão das duas metodologias.
